@@ -1,3 +1,26 @@
+# Project: Spell Checker
+
+We have implemented a spell checker in C that, based on a given dictionary, identifies words in a text that are not present in the dictionary.
+
+## Compilation
+To compile our entire project, you need to execute the command **make**. This will compile the entire project and create an executable for each of the different tests. You can remove all executables by running the command: **make clean**.
+
+## Using the Executables
+To run a dictionary verification test (all tests starting with "test_dico"), you need to execute the following command:
+
+
+    ./bin/<test_name> textes/<with_or_without_accent>/<text_to_check> dictionnaire/<used_dictionary>
+
+Example : `./bin/test_dico_arbre_prefixe textes/sans_accents/test.txt dictionnaire/dico1.txt`
+
+If there is a syntax error in the arguments, you can request help by typing:
+
+    ./bin/<name_of_the_test> h
+    
+Other tests are functionality tests of our spell checker and can be executed simply by running the following command:
+
+    ./bin/<name_of_the_test>
+---
 # projet : Correcteur Orthographique
 
 Nous avons réalisé en C un vérificateur orthographique qui, en se basant sur un dictionnaire donné, retourne les mots d'un texte qui ne sont pas présent dans le dictionnaire.

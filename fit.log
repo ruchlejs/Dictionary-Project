@@ -1,0 +1,5036 @@
+
+
+*******************************************************************************
+Fri Nov 25 05:05:13 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91664e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.000250086
+rel. change during last iteration : -3.1951e-06
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00438605
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.92374e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 5.82879e-07      +/- 5.274e-08    (9.048%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:05:13 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.07932e-42
+abs. change during last iteration : -4.07676e-24
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+b               = 1.73385e-26    
+
+
+*******************************************************************************
+Fri Nov 25 05:05:13 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.07932e-42
+abs. change during last iteration : -4.07676e-24
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+c               = 1.73385e-26    
+
+
+*******************************************************************************
+Fri Nov 25 05:08:21 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76528e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.445661
+rel. change during last iteration : -5.60306e-08
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.166895
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0278538
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 3.0892e-06       +/- 2.029e-07    (6.568%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:08:21 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 9.65972e-05
+rel. change during last iteration : -1.40299e-16
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0024571
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.03733e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 1.12112e-07      +/- 2.987e-09    (2.665%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:08:21 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.98875e-41
+abs. change during last iteration : -8.64037e-23
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+c               = 6.64661e-27    
+
+
+*******************************************************************************
+Fri Nov 25 05:11:04 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76528e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.427101
+rel. change during last iteration : -5.84654e-08
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.163382
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0266938
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 3.07006e-06      +/- 1.986e-07    (6.47%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:11:04 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 9.65972e-05
+rel. change during last iteration : -1.40299e-16
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0024571
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.03733e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 1.12112e-07      +/- 2.987e-09    (2.665%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:11:04 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.98875e-41
+abs. change during last iteration : -8.64037e-23
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+c               = 6.64661e-27    
+
+
+*******************************************************************************
+Fri Nov 25 05:11:57 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76528e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.441999
+rel. change during last iteration : -5.64947e-08
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.166208
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0276249
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 3.09029e-06      +/- 2.021e-07    (6.539%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:11:57 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.000169385
+rel. change during last iteration : -1.6002e-16
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0032537
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.05866e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 1.21764e-07      +/- 3.956e-09    (3.249%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:11:57 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.98875e-41
+abs. change during last iteration : -8.64037e-23
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+c               = 6.64661e-27    
+
+
+*******************************************************************************
+Fri Nov 25 05:15:03 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76528e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.391468
+rel. change during last iteration : -6.37872e-08
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.156418
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0244667
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 3.04488e-06      +/- 1.902e-07    (6.246%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:15:03 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.000297023
+rel. change during last iteration : -1.82512e-16
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00430859
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.85639e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 1.21596e-07      +/- 5.238e-09    (4.308%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:22:16 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.14323e+13       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1.75264e+06
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 2573.11
+rel. change during last iteration : -3.3802e-10
+
+degrees of freedom    (FIT_NDF)                        : 19
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 11.6373
+variance of residuals (reduced chisquare) = WSSR/ndf   : 135.427
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 2.29032e-05      +/- 1.485e-06    (6.483%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:22:16 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.14323e+13       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1.75264e+06
+
+initial set of free parameter values
+
+b               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 2573.11
+rel. change during last iteration : -3.3802e-10
+
+degrees of freedom    (FIT_NDF)                        : 19
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 11.6373
+variance of residuals (reduced chisquare) = WSSR/ndf   : 135.427
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 2.29032e-05      +/- 1.485e-06    (6.483%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:22:16 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.14351e+13       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1.75264e+06
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 5.43337e-40
+abs. change during last iteration : -2.17449e-21
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+c               = 2.9739e-27     
+
+
+*******************************************************************************
+Fri Nov 25 05:25:17 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.14351e+13       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1.75264e+06
+
+initial set of free parameter values
+
+a               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 5.43337e-40
+abs. change during last iteration : -2.17449e-21
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+a               = 2.9739e-27     
+
+
+*******************************************************************************
+Fri Nov 25 05:25:17 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.14351e+13       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1.75264e+06
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 5.43337e-40
+abs. change during last iteration : -2.17449e-21
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+b               = 2.9739e-27     
+
+
+*******************************************************************************
+Fri Nov 25 05:25:17 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.14351e+13       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1.75264e+06
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 5.43337e-40
+abs. change during last iteration : -2.17449e-21
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+c               = 2.9739e-27     
+
+
+*******************************************************************************
+Fri Nov 25 05:26:30 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.14351e+13       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1.75264e+06
+
+initial set of free parameter values
+
+a               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 5.43337e-40
+abs. change during last iteration : -2.17449e-21
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+a               = 2.9739e-27     
+
+
+*******************************************************************************
+Fri Nov 25 05:26:30 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.14351e+13       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1.75264e+06
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00396615
+rel. change during last iteration : -1.09345e-15
+
+degrees of freedom    (FIT_NDF)                        : 19
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.014448
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000208745
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 1.53912e-07      +/- 1.843e-09    (1.198%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:26:30 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.14351e+13       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1.75264e+06
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 5.43337e-40
+abs. change during last iteration : -2.17449e-21
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+c               = 2.9739e-27     
+
+
+*******************************************************************************
+Fri Nov 25 05:27:27 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91664e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.000250086
+rel. change during last iteration : -3.1951e-06
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00438605
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.92374e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 5.82879e-07      +/- 5.274e-08    (9.048%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:27:27 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.12189e-05
+rel. change during last iteration : -1.59675e-16
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00127759
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.63222e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 1.06724e-07      +/- 1.536e-08    (14.39%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:27:27 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.07932e-42
+abs. change during last iteration : -4.07676e-24
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+c               = 1.73385e-26    
+
+
+*******************************************************************************
+Fri Nov 25 05:28:27 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91635e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.140913
+rel. change during last iteration : -5.67027e-09
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.104113
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0108395
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 2.14521e-05      +/- 1.252e-06    (5.836%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:28:27 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91657e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+b               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.000141651
+rel. change during last iteration : -5.64091e-06
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00330095
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.08963e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 5.28182e-06      +/- 3.969e-08    (0.7515%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:28:27 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.07932e-42
+abs. change during last iteration : -4.07676e-24
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+c               = 1.73385e-26    
+
+
+*******************************************************************************
+Fri Nov 25 05:29:56 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91664e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.000131837
+rel. change during last iteration : -6.06089e-06
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00318454
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.01413e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 4.76154e-07      +/- 3.829e-08    (8.042%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:29:56 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+b               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 8.43631e-05
+rel. change during last iteration : -9.47156e-06
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00254744
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.48947e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 1.29301e-07      +/- 3.063e-08    (23.69%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:29:56 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.07932e-42
+abs. change during last iteration : -4.07676e-24
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+c               = 1.73385e-26    
+
+
+*******************************************************************************
+Fri Nov 25 05:30:27 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91635e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.140703
+rel. change during last iteration : -5.67874e-09
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.104035
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0108233
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 2.13037e-05      +/- 1.251e-06    (5.872%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:30:27 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91658e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+b               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.000431842
+rel. change during last iteration : -1.85031e-06
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00576356
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.32186e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 5.13765e-06      +/- 6.93e-08     (1.349%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:30:28 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.07932e-42
+abs. change during last iteration : -4.07676e-24
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+c               = 1.73385e-26    
+
+
+*******************************************************************************
+Fri Nov 25 05:31:49 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91635e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.147485
+rel. change during last iteration : -5.41762e-09
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.106513
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.011345
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 2.15171e-05      +/- 1.281e-06    (5.952%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:31:49 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91658e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+b               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.000296895
+rel. change during last iteration : -2.69133e-06
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00477892
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.28381e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 5.12123e-06      +/- 5.746e-08    (1.122%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:31:49 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.07932e-42
+abs. change during last iteration : -4.07676e-24
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+c               = 1.73385e-26    
+
+
+*******************************************************************************
+Fri Nov 25 05:41:55 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91664e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.000131837
+rel. change during last iteration : -6.06089e-06
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00318454
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.01413e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 4.76154e-07      +/- 3.829e-08    (8.042%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:41:55 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.12189e-05
+rel. change during last iteration : -1.59675e-16
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00127759
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.63222e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 1.06724e-07      +/- 1.536e-08    (14.39%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:41:55 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.07932e-42
+abs. change during last iteration : -4.07676e-24
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+c               = 1.73385e-26    
+
+
+*******************************************************************************
+Fri Nov 25 05:44:35 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91664e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.000131837
+rel. change during last iteration : -6.06089e-06
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00318454
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.01413e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 4.76154e-07      +/- 3.829e-08    (8.042%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:44:35 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.12189e-05
+rel. change during last iteration : -1.59675e-16
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00127759
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.63222e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 1.06724e-07      +/- 1.536e-08    (14.39%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:44:35 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.07932e-42
+abs. change during last iteration : -4.07676e-24
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+c               = 1.73385e-26    
+
+
+*******************************************************************************
+Fri Nov 25 05:44:56 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91659e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00974871
+rel. change during last iteration : -8.19642e-08
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0273843
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0007499
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 3.9488e-06       +/- 3.293e-07    (8.339%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:44:56 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+b               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00010534
+rel. change during last iteration : -7.58542e-06
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00284659
+variance of residuals (reduced chisquare) = WSSR/ndf   : 8.1031e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 1.16986e-07      +/- 3.423e-08    (29.26%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:44:56 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.07932e-42
+abs. change during last iteration : -4.07676e-24
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+c               = 1.73385e-26    
+
+
+*******************************************************************************
+Fri Nov 25 05:45:06 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91659e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00826175
+rel. change during last iteration : -9.67161e-08
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0252095
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00063552
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 3.80308e-06      +/- 3.031e-07    (7.97%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:45:06 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+b               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 8.43631e-05
+rel. change during last iteration : -9.47156e-06
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00254744
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.48947e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 1.29301e-07      +/- 3.063e-08    (23.69%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:45:06 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.07932e-42
+abs. change during last iteration : -4.07676e-24
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+c               = 1.73385e-26    
+
+
+*******************************************************************************
+Fri Nov 25 05:47:41 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91659e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00797051
+rel. change during last iteration : -1.0025e-07
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0247612
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000613116
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 3.82565e-06      +/- 2.977e-07    (7.782%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:47:41 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.12189e-05
+rel. change during last iteration : -1.59675e-16
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00127759
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.63222e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 1.06724e-07      +/- 1.536e-08    (14.39%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:47:41 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.07932e-42
+abs. change during last iteration : -4.07676e-24
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+c               = 1.73385e-26    
+
+
+*******************************************************************************
+Fri Nov 25 05:58:43 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91658e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00699467
+rel. change during last iteration : -1.14236e-07
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0231959
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000538052
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 4.64456e-06      +/- 2.789e-07    (6.005%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:58:43 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.12189e-05
+rel. change during last iteration : -1.59675e-16
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00127759
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.63222e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 1.06724e-07      +/- 1.536e-08    (14.39%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:58:43 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.07932e-42
+abs. change during last iteration : -4.07676e-24
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+c               = 1.73385e-26    
+
+
+*******************************************************************************
+Fri Nov 25 05:59:57 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91664e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+a               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 3.17162e-05
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00156196
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.4397e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 1.55982e-07      +/- 1.878e-08    (12.04%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:59:57 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.12189e-05
+rel. change during last iteration : -1.59675e-16
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00127759
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.63222e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 1.06724e-07      +/- 1.536e-08    (14.39%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 05:59:57 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.07932e-42
+abs. change during last iteration : -4.07676e-24
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+c               = 1.73385e-26    
+
+
+*******************************************************************************
+Fri Nov 25 06:01:05 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.14351e+13       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1.75264e+06
+
+initial set of free parameter values
+
+a               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.000162975
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 19
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00292876
+variance of residuals (reduced chisquare) = WSSR/ndf   : 8.57766e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6.19843e-08      +/- 3.737e-10    (0.6028%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 06:01:05 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.14351e+13       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1.75264e+06
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00122113
+rel. change during last iteration : -1.59817e-15
+
+degrees of freedom    (FIT_NDF)                        : 19
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00801685
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.42699e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 1.5157e-07       +/- 1.023e-09    (0.6748%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 06:01:05 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.14351e+13       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1.75264e+06
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 5.43337e-40
+abs. change during last iteration : -2.17449e-21
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+c               = 2.9739e-27     
+
+
+*******************************************************************************
+Fri Nov 25 06:02:54 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 24
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.31804e+16       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 3.10781e+07
+
+initial set of free parameter values
+
+a               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00749878
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 23
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0180564
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000326034
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 7.14319e-08      +/- 1.186e-10    (0.166%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 06:02:54 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 24
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.31804e+16       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 3.10781e+07
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.852228
+rel. change during last iteration : -3.90819e-16
+
+degrees of freedom    (FIT_NDF)                        : 23
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.192493
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0370534
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 1.89103e-07      +/- 1.264e-09    (0.6686%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Nov 25 06:02:54 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 24
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.31804e+16       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 3.10781e+07
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 3.36626e-38
+abs. change during last iteration : -1.93911e-19
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+c               = 1.20507e-27    
+
+
+*******************************************************************************
+Sun Nov 27 15:09:05 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 8.32182e-05
+rel. change during last iteration : -9.60187e-06
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0025301
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.4014e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 4.92574e-08      +/- 3.042e-08    (61.76%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Sun Nov 27 15:09:05 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.12189e-05
+rel. change during last iteration : -1.59675e-16
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00127759
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.63222e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 1.06724e-07      +/- 1.536e-08    (14.39%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Sun Nov 27 15:09:05 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.07932e-42
+abs. change during last iteration : -4.07676e-24
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+c               = 1.73385e-26    
+
+
+*******************************************************************************
+Sun Nov 27 15:09:16 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+a               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.07932e-42
+abs. change during last iteration : -4.07676e-24
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+a               = 1.73385e-26    
+
+
+*******************************************************************************
+Sun Nov 27 15:09:16 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91664e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+b               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 8.48757e-05
+rel. change during last iteration : -9.41436e-06
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00255517
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.5289e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 2.13449e-07      +/- 3.072e-08    (14.39%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Sun Nov 27 15:09:16 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.07932e-42
+abs. change during last iteration : -4.07676e-24
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+c               = 1.73385e-26    
+
+
+*******************************************************************************
+Sun Nov 27 15:12:07 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+a               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.07932e-42
+abs. change during last iteration : -4.07676e-24
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+a               = 1.73385e-26    
+
+
+*******************************************************************************
+Sun Nov 27 15:12:07 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91664e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 7.94771e-05
+rel. change during last iteration : -1.70521e-16
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00247257
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.11362e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 1.78558e-07      +/- 2.973e-08    (16.65%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Sun Nov 27 15:12:07 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.12189e-05
+rel. change during last iteration : -1.59675e-16
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00127759
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.63222e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = 1.06724e-07      +/- 1.536e-08    (14.39%)
+
+
+correlation matrix of the fit parameters:
+
+               c      
+c               1.000 
+
+
+*******************************************************************************
+Sun Nov 27 15:12:31 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+a               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 3.84004e-05
+rel. change during last iteration : -3.52927e-16
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0015492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.40002e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 8.30086e-08      +/- 1.883e-09    (2.269%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Sun Nov 27 15:12:31 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.000183647
+rel. change during last iteration : -1.18075e-15
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00338791
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.14779e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 1.73718e-07      +/- 4.119e-09    (2.371%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Sun Nov 27 15:12:31 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.000483784
+rel. change during last iteration : -4.48217e-16
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00549877
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.02365e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = 1.10203e-07      +/- 6.685e-09    (6.066%)
+
+
+correlation matrix of the fit parameters:
+
+               c      
+c               1.000 
+
+
+*******************************************************************************
+Sun Nov 27 15:14:43 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.14351e+13       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1.75264e+06
+
+initial set of free parameter values
+
+a               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.0230312
+rel. change during last iteration : -3.01282e-16
+
+degrees of freedom    (FIT_NDF)                        : 19
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0348162
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00121217
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 1.02905e-07      +/- 4.442e-09    (4.317%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Sun Nov 27 15:14:44 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.14351e+13       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1.75264e+06
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.0265842
+rel. change during last iteration : -1.30508e-16
+
+degrees of freedom    (FIT_NDF)                        : 19
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0374055
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00139917
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 2.4482e-07       +/- 4.772e-09    (1.949%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Sun Nov 27 15:14:44 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.14351e+13       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1.75264e+06
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00168296
+rel. change during last iteration : -1.54614e-15
+
+degrees of freedom    (FIT_NDF)                        : 19
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00941152
+variance of residuals (reduced chisquare) = WSSR/ndf   : 8.85766e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = 9.65268e-08      +/- 1.201e-09    (1.244%)
+
+
+correlation matrix of the fit parameters:
+
+               c      
+c               1.000 
+
+
+*******************************************************************************
+Sun Nov 27 15:16:12 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+a               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.12189e-05
+rel. change during last iteration : -1.59675e-16
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00127759
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.63222e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 1.06724e-07      +/- 1.536e-08    (14.39%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Sun Nov 27 15:16:12 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91664e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.26519e-05
+rel. change during last iteration : -4.48721e-16
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00132002
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.74246e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 2.62706e-07      +/- 1.587e-08    (6.042%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Sun Nov 27 15:16:12 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.07932e-42
+abs. change during last iteration : -4.07676e-24
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+c               = 1.73385e-26    
+
+
+*******************************************************************************
+Sun Nov 27 15:16:50 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91664e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+a               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 7.94771e-05
+rel. change during last iteration : -1.70521e-16
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00247257
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.11362e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 1.78558e-07      +/- 2.973e-08    (16.65%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Sun Nov 27 15:16:50 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.12189e-05
+rel. change during last iteration : -1.59675e-16
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00127759
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.63222e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 1.06724e-07      +/- 1.536e-08    (14.39%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Sun Nov 27 15:16:50 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.91665e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 22227.2
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.12189e-05
+rel. change during last iteration : -1.59675e-16
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00127759
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.63222e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = 1.06724e-07      +/- 1.536e-08    (14.39%)
+
+
+correlation matrix of the fit parameters:
+
+               c      
+c               1.000 
+
+
+*******************************************************************************
+Sun Nov 27 15:17:15 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.14351e+13       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1.75264e+06
+
+initial set of free parameter values
+
+a               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.0110962
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 19
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0241663
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000584009
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 1.10114e-07      +/- 3.083e-09    (2.8%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Sun Nov 27 15:17:15 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.14351e+13       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1.75264e+06
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00573664
+rel. change during last iteration : -4.53591e-16
+
+degrees of freedom    (FIT_NDF)                        : 19
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0173761
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000301928
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 2.31624e-07      +/- 2.217e-09    (0.9571%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Sun Nov 27 15:17:15 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.14351e+13       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1.75264e+06
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.0136163
+rel. change during last iteration : -3.82201e-16
+
+degrees of freedom    (FIT_NDF)                        : 19
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0267703
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000716648
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = 1.13827e-07      +/- 3.415e-09    (3.001%)
+
+
+correlation matrix of the fit parameters:
+
+               c      
+c               1.000 
+
+
+*******************************************************************************
+Sun Nov 27 15:20:29 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+a               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 6.69589e-05
+rel. change during last iteration : -2.02401e-16
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00204571
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.18493e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 7.22654e-08      +/- 2.487e-09    (3.442%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Sun Nov 27 15:20:29 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00012118
+rel. change during last iteration : -2.23677e-16
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00275204
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.57372e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = 6.74603e-08      +/- 3.346e-09    (4.96%)
+
+
+correlation matrix of the fit parameters:
+
+               c      
+c               1.000 
+
+
+*******************************************************************************
+Sun Nov 27 15:20:51 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+a               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00015563
+rel. change during last iteration : -3.48328e-16
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00311879
+variance of residuals (reduced chisquare) = WSSR/ndf   : 9.72685e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 8.80445e-08      +/- 3.792e-09    (4.307%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Sun Nov 27 15:21:13 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+a               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.000286813
+rel. change during last iteration : -1.89009e-16
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00423389
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.79258e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 8.94504e-08      +/- 5.147e-09    (5.755%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Sun Nov 27 15:21:13 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.000122387
+rel. change during last iteration : -4.4294e-16
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00276572
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.64919e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 1.75669e-07      +/- 3.363e-09    (1.914%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Sun Nov 27 15:21:13 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00015563
+rel. change during last iteration : -3.48328e-16
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00311879
+variance of residuals (reduced chisquare) = WSSR/ndf   : 9.72685e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = 8.80445e-08      +/- 3.792e-09    (4.307%)
+
+
+correlation matrix of the fit parameters:
+
+               c      
+c               1.000 
+
+
+*******************************************************************************
+Sun Nov 27 15:21:43 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.14351e+13       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1.75264e+06
+
+initial set of free parameter values
+
+a               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00220711
+rel. change during last iteration : -7.85971e-16
+
+degrees of freedom    (FIT_NDF)                        : 19
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0107779
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000116164
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 8.68962e-08      +/- 1.375e-09    (1.582%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Sun Nov 27 15:21:43 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.14351e+13       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1.75264e+06
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00658059
+rel. change during last iteration : -7.90837e-16
+
+degrees of freedom    (FIT_NDF)                        : 19
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0186104
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000346347
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 2.38208e-07      +/- 2.374e-09    (0.9968%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Sun Nov 27 15:21:43 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.14351e+13       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1.75264e+06
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.0247642
+rel. change during last iteration : -2.80198e-16
+
+degrees of freedom    (FIT_NDF)                        : 19
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0361023
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00130338
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = 1.1959e-07       +/- 4.606e-09    (3.852%)
+
+
+correlation matrix of the fit parameters:
+
+               c      
+c               1.000 
+
+
+*******************************************************************************
+Fri Dec  2 02:28:25 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.14351e+13       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1.75264e+06
+
+initial set of free parameter values
+
+a               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.000709124
+rel. change during last iteration : -1.22315e-15
+
+degrees of freedom    (FIT_NDF)                        : 19
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0061092
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.73223e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 1.32286e-07      +/- 7.794e-10    (0.5892%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Dec  2 02:28:25 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.14351e+13       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1.75264e+06
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00177468
+rel. change during last iteration : -5.62054e-15
+
+degrees of freedom    (FIT_NDF)                        : 19
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00966459
+variance of residuals (reduced chisquare) = WSSR/ndf   : 9.34043e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 2.98724e-07      +/- 1.233e-09    (0.4128%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Dec  2 02:28:25 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.14351e+13       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1.75264e+06
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.000240146
+rel. change during last iteration : -2.25739e-16
+
+degrees of freedom    (FIT_NDF)                        : 19
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00355517
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.26392e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = 1.28761e-07      +/- 4.536e-10    (0.3523%)
+
+
+correlation matrix of the fit parameters:
+
+               c      
+c               1.000 
+
+
+*******************************************************************************
+Fri Dec  2 02:34:45 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+a               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 8.6857e-05
+rel. change during last iteration : -3.12065e-16
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00232993
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.42856e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 7.79727e-08      +/- 2.833e-09    (3.633%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Dec  2 02:34:46 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.000258149
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00401675
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.61343e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 1.28332e-07      +/- 4.883e-09    (3.805%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Dec  2 02:34:46 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 8.16675e-05
+rel. change during last iteration : -1.65948e-16
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00225925
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.10422e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = 8.35122e-08      +/- 2.747e-09    (3.289%)
+
+
+correlation matrix of the fit parameters:
+
+               c      
+c               1.000 
+
+
+*******************************************************************************
+Fri Dec  2 02:35:04 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+a               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 3.84004e-05
+rel. change during last iteration : -3.52927e-16
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0015492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.40002e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 8.30086e-08      +/- 1.883e-09    (2.269%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Dec  2 02:35:04 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.000270533
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00411197
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.69083e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 1.28835e-07      +/- 4.999e-09    (3.88%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Dec  2 02:35:04 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00011244
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00265095
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.02752e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = 8.32394e-08      +/- 3.223e-09    (3.872%)
+
+
+correlation matrix of the fit parameters:
+
+               c      
+c               1.000 
+
+
+*******************************************************************************
+Fri Dec  2 02:35:30 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+a               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 3.84004e-05
+rel. change during last iteration : -3.52927e-16
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0015492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.40002e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 8.30086e-08      +/- 1.883e-09    (2.269%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Dec  2 02:35:30 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.71459e-05
+rel. change during last iteration : -2.49624e-16
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00130254
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.69662e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 1.22624e-07      +/- 1.584e-09    (1.291%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Dec  2 02:35:30 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.000224405
+rel. change during last iteration : -1.20787e-16
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00374503
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.40253e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = 7.7616e-08       +/- 4.553e-09    (5.866%)
+
+
+correlation matrix of the fit parameters:
+
+               c      
+c               1.000 
+
+
+*******************************************************************************
+Fri Dec  2 02:36:44 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76526e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.0285387
+rel. change during last iteration : -8.7497e-07
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0422335
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00178367
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 4.67181e-06      +/- 5.135e-08    (1.099%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Dec  2 02:36:44 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76524e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+b               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.0169216
+rel. change during last iteration : -1.47565e-06
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0325208
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0010576
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 6.37433e-06      +/- 3.954e-08    (0.6203%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Dec  2 02:36:44 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76526e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+c               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00493087
+rel. change during last iteration : -5.06412e-06
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.017555
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00030818
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = 4.72266e-06      +/- 2.134e-08    (0.4519%)
+
+
+correlation matrix of the fit parameters:
+
+               c      
+c               1.000 
+
+
+*******************************************************************************
+Fri Dec  2 02:37:09 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+a               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.000218338
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00369406
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.36461e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 1.16497e-07      +/- 4.491e-09    (3.855%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Dec  2 02:37:09 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.000102096
+rel. change during last iteration : -3.9823e-16
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00252606
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.38099e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 1.49881e-07      +/- 3.071e-09    (2.049%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Dec  2 02:37:09 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 9.28971e-05
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00240958
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.80607e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = 9.50109e-08      +/- 2.93e-09     (3.083%)
+
+
+correlation matrix of the fit parameters:
+
+               c      
+c               1.000 
+
+
+*******************************************************************************
+Fri Dec  2 02:49:24 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+a               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.000121773
+rel. change during last iteration : -2.22586e-16
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00275877
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.61084e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 9.63328e-08      +/- 3.354e-09    (3.482%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Dec  2 02:49:24 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.0014806
+rel. change during last iteration : -4.39362e-16
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00961965
+variance of residuals (reduced chisquare) = WSSR/ndf   : 9.25378e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 2.64469e-07      +/- 1.17e-08     (4.422%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Dec  2 02:49:24 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.76532e+11       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 199489
+
+initial set of free parameter values
+
+c               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 5.36738e-05
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 16
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00183156
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.35461e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = 9.37519e-08      +/- 2.227e-09    (2.375%)
+
+
+correlation matrix of the fit parameters:
+
+               c      
+c               1.000 
+
+
+*******************************************************************************
+Fri Dec  2 02:55:55 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:2
+        format = x:z
+        #datapoints = 24
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.31804e+16       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 3.10781e+07
+
+initial set of free parameter values
+
+a               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 13.6947
+rel. change during last iteration : -8.15597e-06
+
+degrees of freedom    (FIT_NDF)                        : 23
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.771637
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.595424
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 1.97107e-07      +/- 5.068e-09    (2.571%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Dec  2 02:55:56 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:3
+        format = x:z
+        #datapoints = 24
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.31803e+16       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 3.10781e+07
+
+initial set of free parameter values
+
+b               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 261.596
+rel. change during last iteration : -4.2697e-07
+
+degrees of freedom    (FIT_NDF)                        : 23
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.3725
+variance of residuals (reduced chisquare) = WSSR/ndf   : 11.3738
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+b               = 4.57492e-07      +/- 2.215e-08    (4.842%)
+
+
+correlation matrix of the fit parameters:
+
+               b      
+b               1.000 
+
+
+*******************************************************************************
+Fri Dec  2 02:55:56 2022
+
+
+FIT:    data read from 'tempstri.dat' u 1:4
+        format = x:z
+        #datapoints = 24
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.31804e+16       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 3.10781e+07
+
+initial set of free parameter values
+
+c               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 15.1552
+rel. change during last iteration : -7.37001e-06
+
+degrees of freedom    (FIT_NDF)                        : 23
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.81174
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.658922
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+c               = 1.89708e-07      +/- 5.332e-09    (2.81%)
+
+
+correlation matrix of the fit parameters:
+
+               c      
+c               1.000 

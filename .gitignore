@@ -1,0 +1,12 @@
+!*.c
+!*.txt
+!Makefile
+*.o
+*.csv
+a.out
+*.exe
+*.utf8
+*.zip
+.DS_Store
+bin
+obj

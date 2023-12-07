@@ -26,7 +26,7 @@ Other tests are functionality tests of our spell checker and can be executed sim
 Nous avons réalisé en C un vérificateur orthographique qui, en se basant sur un dictionnaire donné, retourne les mots d'un texte qui ne sont pas présent dans le dictionnaire.
 
 ## Compilation
-Pour compiler l'ensemble de notre projet, vous devez vous placer dans le répertoire : `champeth_rollandu_ruchlejs_apman`, et exécuter la commande **make**. Cela compilera l'ensemble du projet et créera un exécutable pour chacun des différents tests.
+Pour compiler l'ensemble de notre projet, vous devez exécuter la commande **make**. Cela compilera l'ensemble du projet et créera un exécutable pour chacun des différents tests.
 Vous pouvez supprimer l'ensemble des exécutables en exécutant la commande : **make clean**.
 
 ## Utilisation des exécutables
